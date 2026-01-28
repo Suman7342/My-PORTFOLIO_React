@@ -1,5 +1,5 @@
 import React from "react";
-import Coder from "../assets/coder.svg"
+import coder from "../assets/coder.svg"
 
 const AboutMe = () => {
   const skills = [
@@ -52,7 +52,7 @@ const AboutMe = () => {
           <div className="w-full lg:w-[45%] z-40 flex items-center justify-center order-1 lg:order-2">
   <img
   className="w-full max-w-[400px] md:max-w-[500px] lg:max-w-full h-auto"
-  src={Coder}
+  src={coder}
   alt="Coder Image"
 />
 </div>
