@@ -1,5 +1,5 @@
 import React from "react";
-import Coder from "../assets/Coder.svg"
+import Coder from "../assets/coder.svg"
 
 const AboutMe = () => {
   const skills = [
